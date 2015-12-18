@@ -25,6 +25,6 @@
         "iris-polymer-importer": "https://github.com/sdk-group/iris-polymer-importer.git",
         "iris-polymer-control-panel": "https://github.com/sdk-group/iris-polymer-control-panel.git",
         "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login",
-        "polymer-iris-socket": "https://github.com/sdk-group/iris-polymer-socket.git"
+        "iris-polymer-socket": "https://github.com/sdk-group/iris-polymer-socket.git"
     }
 }
