@@ -1,30 +1,30 @@
 {
-  "name": "iris-polymer-components",
-  "homepage": "https://github.com/sdk-group/iris-polymer-components",
-  "authors": [
+    "name": "iris-polymer-elements",
+    "homepage": "https://github.com/sdk-group/iris-polymer-elements",
+    "authors": [
     "artificial-life <proteus.protocol@gmail.com>"
   ],
-  "description": "common set of iris gui components",
-  "main": "demo.html",
-  "moduleType": [],
-  "keywords": [
+    "description": "common set of iris gui elements",
+    "main": "demo.html",
+    "moduleType": [],
+    "keywords": [
     "polymer",
     "iris",
     "gui"
   ],
-  "license": "MIT",
-  "private": true,
-  "ignore": [
+    "license": "MIT",
+    "private": true,
+    "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
   ],
-  "dependencies": {
-    "iris-polymer-importer": "https://github.com/sdk-group/iris-polymer-importer.git",
-    "iris-polymer-control-panel": "https://github.com/sdk-group/iris-polymer-control-panel.git",
-    "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login",
-    "polymer-iris-socket": "https://github.com/sdk-group/iris-polymer-socket.git"
-  }
+    "dependencies": {
+        "iris-polymer-importer": "https://github.com/sdk-group/iris-polymer-importer.git",
+        "iris-polymer-control-panel": "https://github.com/sdk-group/iris-polymer-control-panel.git",
+        "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login",
+        "polymer-iris-socket": "https://github.com/sdk-group/iris-polymer-socket.git"
+    }
 }
