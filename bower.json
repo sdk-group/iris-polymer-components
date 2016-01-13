@@ -26,6 +26,13 @@
     "iris-polymer-control-panel": "https://github.com/sdk-group/iris-polymer-control-panel.git",
     "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login",
     "iris-polymer-socket": "https://github.com/sdk-group/iris-polymer-socket.git",
-    "iris-polymer-usercard": "https://github.com/sdk-group/iris-polymer-usercard.git"
+    "iris-polymer-usercard": "https://github.com/sdk-group/iris-polymer-usercard.git",
+    "iris-polymer-settings-panel": "https://github.com/sdk-group/iris-polymer-settings-panel.git",
+    "iris-polymer-http-connection": "https://github.com/sdk-group/iris-polymer-http-connection.git",
+    "iris-polymer-api": "https://github.com/sdk-group/iris-polymer-api.git",
+    "iris-polymer-ticketview": "https://github.com/sdk-group/iris-polymer-ticketview.git",
+    "iris-polymer-ticketlist": "https://github.com/sdk-group/iris-polymer-ticketlist.git",
+    "iris-polymer-queuecard": "https://github.com/sdk-group/iris-polymer-queuecard.git",
+    "iris-polymer-doomclock": "https://github.com/sdk-group/iris-polymer-doomclock.git"
   }
 }
