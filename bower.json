@@ -24,7 +24,7 @@
   "dependencies": {
     "iris-polymer-importer": "https://github.com/sdk-group/iris-polymer-importer.git",
     "iris-polymer-control-panel": "https://github.com/sdk-group/iris-polymer-control-panel.git",
-    "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login",
+    "iris-polymer-login": "https://github.com/sdk-group/iris-polymer-login.git",
     "iris-polymer-socket": "https://github.com/sdk-group/iris-polymer-socket.git",
     "iris-polymer-usercard": "https://github.com/sdk-group/iris-polymer-usercard.git",
     "iris-polymer-settings-panel": "https://github.com/sdk-group/iris-polymer-settings-panel.git",
