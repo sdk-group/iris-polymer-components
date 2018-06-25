@@ -29,7 +29,7 @@
     "iris-polymer-usercard": "https://github.com/sdk-group/iris-polymer-usercard.git",
     "iris-polymer-settings-panel": "https://github.com/sdk-group/iris-polymer-settings-panel.git",
     "iris-polymer-http-connection": "https://github.com/sdk-group/iris-polymer-http-connection.git",
-    "iris-polymer-api": "https://github.com/sdk-group/iris-polymer-api.git",
+    "iris-polymer-api": "git://github.com/sdk-group/iris-polymer-api.git",
     "iris-polymer-ticketview": "https://github.com/sdk-group/iris-polymer-ticketview.git",
     "iris-polymer-ticketlist": "https://github.com/sdk-group/iris-polymer-ticketlist.git",
     "iris-polymer-queuecard": "https://github.com/sdk-group/iris-polymer-queuecard.git",
